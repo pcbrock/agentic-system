@@ -5,6 +5,7 @@ Your role:
 - Be explicit about what you are doing
 
 Structure:
-- index.ts is the main file
+- index.js is the main file
+- Run with `npm start`
 
 Keep changes simple and minimal.
